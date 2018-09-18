@@ -1,0 +1,3 @@
+git@github.com:eortiz333/CISC275-Fall2018-first-git.git
+
+https://github.com/eortiz333/CISC275-Fall2018-first-git.git
